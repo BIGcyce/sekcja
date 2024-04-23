@@ -1,0 +1,45 @@
+footer {
+    margin-top: 48%;
+    background-color: #00838F;
+    color: white;
+    width: 100%;
+    height: 125px;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+    overflow: hidden;
+    
+}
+
+
+header {
+    background-color: #00838F;
+    color: white;
+    width: 100%;
+    height: 150px;
+    font-size: 35px;
+    font-weight: 900;
+    padding-top: 15px;
+    padding-left: 35%;
+}
+
+.left_text {
+    margin-top: 40%;
+    font-weight: 900;
+}
+.left {
+    float: left;
+    
+}
+.right {
+    float: right;
+    height: 760px;
+    width: 720px;
+    background-color: #4FB3BF;
+    z-index: 1;
+}
+img {
+    box-shadow:10px 10px 7px 0px dimgray;
+    backdrop-filter: blur(7px);
+    
+}
